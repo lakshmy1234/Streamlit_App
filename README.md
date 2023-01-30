@@ -4,4 +4,4 @@ This repository consists of a web application hosted on Streamlit that checks th
 
 ## Current Applications
 
-1. Card Validity Checker - Check the Validity of Credit Cards and Driving Licenses. To access the application click [here](https://card-validity-check.streamlit.app/)
+1. Card Validity Checker-Check the Validity of Credit Cards and Driving Licenses.To access the application, click [here](https://card-validity-check.streamlit.app/)
